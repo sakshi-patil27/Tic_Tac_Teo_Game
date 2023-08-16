@@ -3,11 +3,11 @@ This is a simple implementation of the classic Tic Tac Toe game in Java. It's a 
 
 Features
 
-User vs User: Play against a friend on the same computer.
-Interactive Interface: The game provides a user-friendly interface in the console.
-Win Detection: The game automatically detects winning combinations and declares a winner.
-Valid Move Check: Prevents players from making invalid moves.
-Replayability: Once a game is finished, players can choose to play again without restarting the application.
+1) User vs User: Play against a friend on the same computer.
+2) Interactive Interface: The game provides a user-friendly interface in the console.
+3) Win Detection: The game automatically detects winning combinations and declares a winner.
+4) Valid Move Check: Prevents players from making invalid moves.
+5) Replayability: Once a game is finished, players can choose to play again without restarting the application.
 
 
 How to Play
