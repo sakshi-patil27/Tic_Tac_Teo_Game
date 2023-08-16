@@ -10,4 +10,5 @@ How to Play
 5) At the end of each game, you'll be prompted to play again or exit the game.
 
 Contributing
+
 Contributions are welcome! If you find any issues or have ideas for improvements, please open an issue or a pull request in this repository.
